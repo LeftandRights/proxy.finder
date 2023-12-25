@@ -1,0 +1,6 @@
+proxy:
+  shuffle: true
+  timeout_in_second: 10
+
+max_worker: 25
+verbose: false
