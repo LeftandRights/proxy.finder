@@ -1,4 +1,4 @@
-# Proxy Tester
+# Proxy Tester (Deprecated)
 
 The Proxy Tester is a Python script designed to test and manage a list of proxy servers. It checks the validity and responsiveness of proxy servers obtained from various sources, allowing you to maintain an updated list of working proxies.
 
